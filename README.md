@@ -7,7 +7,7 @@ This project helps those who read the Bible and also those who study it. This pr
 - It allows users to search for words/phrases as quickly as possible in the Bible
 - It's also allow users to see for every day a unique verse from Bible
 
-## How dos it work?
+## How does it work?
 ![Recording2024-02-13113540-ezgif com-video-to-gif-converter](https://github.com/SamiIonesi/Bible_App/assets/150432462/293ccc62-62eb-4917-9b8a-d3eeeffbf497)
 
 ## Requirements
